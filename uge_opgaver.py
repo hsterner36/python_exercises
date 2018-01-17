@@ -27,5 +27,5 @@ def computeLIX(s):
 		print("Let for dygtige")
 	else:
 		print("Let tekst for alle")
-
+# se eksempler på lix: http://www.readabilityformulas.com/the-LIX-readability-formula.php
 computeLIX("HEJ MED DIG")
