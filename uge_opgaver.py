@@ -1,4 +1,4 @@
-# LIX Beregner
+# OPGAVE 1: LIX Beregner
 # LIX = O/P + L*100/O
 # O antal ord
 # P antal punktummer
